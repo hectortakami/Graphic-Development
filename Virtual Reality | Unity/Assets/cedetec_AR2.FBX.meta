@@ -1,0 +1,396 @@
+fileFormatVersion: 2
+guid: 30155f9440013cd42816565068e180ac
+timeCreated: 1487339778
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Antena
+    100002: Antena01
+    100004: Antena02
+    100006: bowl
+    100008: bowl01
+    100010: bowl02
+    100012: Box01
+    100014: Camera01
+    100016: Camera01.Target
+    100018: Camera02
+    100020: Camera02.Target
+    100022: Cancel Escalera02
+    100024: Cancel Escaleras01
+    100026: Canceleria Cilindro
+    100028: //RootNode
+    100030: Cols
+    100032: cols esc
+    100034: 'Columnas '
+    100036: CRIS.27
+    100038: CRIS.28
+    100040: CRIS.29
+    100042: cristal01
+    100044: Cylinder01
+    100046: Cylinder02
+    100048: Cylinder03
+    100050: Cylinder04
+    100052: Herreria N Mezanine
+    100054: Herreria N01
+    100056: Herreria N02
+    100058: Herreria N03
+    100060: Herreria N04
+    100062: LETRERO
+    100064: LETRERO01
+    100066: LOUVER.17
+    100068: LOUVER.18
+    100070: Lover Escaleras
+    100072: M Sanitarios
+    100074: Muro Cilindro
+    100076: Muro cilindro02
+    100078: Muro Samitarios02
+    100080: Muro01
+    100082: Muros02
+    100084: N Mezanine
+    100086: N01
+    100088: N01_ch
+    100090: N02
+    100092: N02_ch
+    100094: N03
+    100096: N03_ch
+    100098: N04
+    100100: N04_ch
+    100102: N05
+    100104: N05_ch
+    100106: N06
+    100108: N07
+    100110: N08
+    100112: N09
+    100114: N10
+    100116: Naz
+    100118: Omni01
+    100120: Omni02
+    100122: Omni03
+    100124: Omni04
+    100126: Pergolado
+    100128: STAND
+    100130: STAND01
+    100132: STAND02
+    100134: Text01
+    100136: Text02
+    100138: Text03
+    100140: Text04
+    100142: Tragaluz
+    100144: Volado
+    400000: Antena
+    400002: Antena01
+    400004: Antena02
+    400006: bowl
+    400008: bowl01
+    400010: bowl02
+    400012: Box01
+    400014: Camera01
+    400016: Camera01.Target
+    400018: Camera02
+    400020: Camera02.Target
+    400022: Cancel Escalera02
+    400024: Cancel Escaleras01
+    400026: Canceleria Cilindro
+    400028: //RootNode
+    400030: Cols
+    400032: cols esc
+    400034: 'Columnas '
+    400036: CRIS.27
+    400038: CRIS.28
+    400040: CRIS.29
+    400042: cristal01
+    400044: Cylinder01
+    400046: Cylinder02
+    400048: Cylinder03
+    400050: Cylinder04
+    400052: Herreria N Mezanine
+    400054: Herreria N01
+    400056: Herreria N02
+    400058: Herreria N03
+    400060: Herreria N04
+    400062: LETRERO
+    400064: LETRERO01
+    400066: LOUVER.17
+    400068: LOUVER.18
+    400070: Lover Escaleras
+    400072: M Sanitarios
+    400074: Muro Cilindro
+    400076: Muro cilindro02
+    400078: Muro Samitarios02
+    400080: Muro01
+    400082: Muros02
+    400084: N Mezanine
+    400086: N01
+    400088: N01_ch
+    400090: N02
+    400092: N02_ch
+    400094: N03
+    400096: N03_ch
+    400098: N04
+    400100: N04_ch
+    400102: N05
+    400104: N05_ch
+    400106: N06
+    400108: N07
+    400110: N08
+    400112: N09
+    400114: N10
+    400116: Naz
+    400118: Omni01
+    400120: Omni02
+    400122: Omni03
+    400124: Omni04
+    400126: Pergolado
+    400128: STAND
+    400130: STAND01
+    400132: STAND02
+    400134: Text01
+    400136: Text02
+    400138: Text03
+    400140: Text04
+    400142: Tragaluz
+    400144: Volado
+    2300000: bowl
+    2300002: bowl01
+    2300004: bowl02
+    2300006: Box01
+    2300008: Cancel Escalera02
+    2300010: Cancel Escaleras01
+    2300012: Canceleria Cilindro
+    2300014: Cols
+    2300016: cols esc
+    2300018: 'Columnas '
+    2300020: CRIS.27
+    2300022: CRIS.28
+    2300024: CRIS.29
+    2300026: cristal01
+    2300028: Cylinder01
+    2300030: Cylinder02
+    2300032: Cylinder03
+    2300034: Cylinder04
+    2300036: Herreria N Mezanine
+    2300038: Herreria N01
+    2300040: Herreria N02
+    2300042: Herreria N03
+    2300044: Herreria N04
+    2300046: LOUVER.17
+    2300048: LOUVER.18
+    2300050: Lover Escaleras
+    2300052: M Sanitarios
+    2300054: Muro Cilindro
+    2300056: Muro cilindro02
+    2300058: Muro Samitarios02
+    2300060: Muro01
+    2300062: Muros02
+    2300064: N Mezanine
+    2300066: N01
+    2300068: N01_ch
+    2300070: N02
+    2300072: N02_ch
+    2300074: N03
+    2300076: N03_ch
+    2300078: N04
+    2300080: N04_ch
+    2300082: N05
+    2300084: N05_ch
+    2300086: N06
+    2300088: N07
+    2300090: N08
+    2300092: N09
+    2300094: N10
+    2300096: Naz
+    2300098: Pergolado
+    2300100: STAND
+    2300102: STAND01
+    2300104: STAND02
+    2300106: Text01
+    2300108: Text02
+    2300110: Text03
+    2300112: Text04
+    2300114: Volado
+    3300000: bowl
+    3300002: bowl01
+    3300004: bowl02
+    3300006: Box01
+    3300008: Cancel Escalera02
+    3300010: Cancel Escaleras01
+    3300012: Canceleria Cilindro
+    3300014: Cols
+    3300016: cols esc
+    3300018: 'Columnas '
+    3300020: CRIS.27
+    3300022: CRIS.28
+    3300024: CRIS.29
+    3300026: cristal01
+    3300028: Cylinder01
+    3300030: Cylinder02
+    3300032: Cylinder03
+    3300034: Cylinder04
+    3300036: Herreria N Mezanine
+    3300038: Herreria N01
+    3300040: Herreria N02
+    3300042: Herreria N03
+    3300044: Herreria N04
+    3300046: LOUVER.17
+    3300048: LOUVER.18
+    3300050: Lover Escaleras
+    3300052: M Sanitarios
+    3300054: Muro Cilindro
+    3300056: Muro cilindro02
+    3300058: Muro Samitarios02
+    3300060: Muro01
+    3300062: Muros02
+    3300064: N Mezanine
+    3300066: N01
+    3300068: N01_ch
+    3300070: N02
+    3300072: N02_ch
+    3300074: N03
+    3300076: N03_ch
+    3300078: N04
+    3300080: N04_ch
+    3300082: N05
+    3300084: N05_ch
+    3300086: N06
+    3300088: N07
+    3300090: N08
+    3300092: N09
+    3300094: N10
+    3300096: Naz
+    3300098: Pergolado
+    3300100: STAND
+    3300102: STAND01
+    3300104: STAND02
+    3300106: Text01
+    3300108: Text02
+    3300110: Text03
+    3300112: Text04
+    3300114: Volado
+    4300000: Cancel Escalera02
+    4300002: Cancel Escaleras01
+    4300004: Canceleria Cilindro
+    4300006: Cols
+    4300008: cols esc
+    4300010: 'Columnas '
+    4300012: CRIS.27
+    4300014: CRIS.28
+    4300016: CRIS.29
+    4300018: cristal01
+    4300020: Herreria N Mezanine
+    4300022: Herreria N01
+    4300024: Herreria N02
+    4300026: Herreria N03
+    4300028: Herreria N04
+    4300030: LOUVER.17
+    4300032: LOUVER.18
+    4300034: Lover Escaleras
+    4300036: M Sanitarios
+    4300038: Muro Cilindro
+    4300040: Muro cilindro02
+    4300042: Muro Samitarios02
+    4300044: Muro01
+    4300046: Muros02
+    4300048: N Mezanine
+    4300050: N01
+    4300052: N02
+    4300054: N03
+    4300056: N04
+    4300058: N05
+    4300060: N06
+    4300062: N07
+    4300064: N08
+    4300066: N09
+    4300068: N10
+    4300070: Naz
+    4300072: Pergolado
+    4300074: Volado
+    4300076: Text03
+    4300078: Text04
+    4300080: Text02
+    4300082: Text01
+    4300084: bowl01
+    4300086: STAND01
+    4300088: bowl
+    4300090: STAND
+    4300092: bowl02
+    4300094: STAND02
+    4300096: Cylinder01
+    4300098: Cylinder02
+    4300100: Cylinder03
+    4300102: Cylinder04
+    4300104: Box01
+    4300106: N05_ch
+    4300108: N04_ch
+    4300110: N03_ch
+    4300112: N02_ch
+    4300114: N01_ch
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

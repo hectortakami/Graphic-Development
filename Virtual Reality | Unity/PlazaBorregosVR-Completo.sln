@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlazaBorregosVR-Completo", "PlazaBorregosVR-Completo.csproj", "{C893147D-9477-8FDA-CF63-BFDE38685C2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlazaBorregosVR-Completo.Plugins", "PlazaBorregosVR-Completo.Plugins.csproj", "{9729A11D-8110-81A9-5033-8685EEC81A9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlazaBorregosVR-Completo.Editor.Plugins", "PlazaBorregosVR-Completo.Editor.Plugins.csproj", "{32F000AC-60FC-CB11-DFE0-8461A77BCC9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlazaBorregosVR-Completo.Editor", "PlazaBorregosVR-Completo.Editor.csproj", "{DE3A2A7C-0A0C-4D7C-381A-716AD1562013}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C893147D-9477-8FDA-CF63-BFDE38685C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C893147D-9477-8FDA-CF63-BFDE38685C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C893147D-9477-8FDA-CF63-BFDE38685C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C893147D-9477-8FDA-CF63-BFDE38685C2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9729A11D-8110-81A9-5033-8685EEC81A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9729A11D-8110-81A9-5033-8685EEC81A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9729A11D-8110-81A9-5033-8685EEC81A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9729A11D-8110-81A9-5033-8685EEC81A9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32F000AC-60FC-CB11-DFE0-8461A77BCC9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32F000AC-60FC-CB11-DFE0-8461A77BCC9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32F000AC-60FC-CB11-DFE0-8461A77BCC9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32F000AC-60FC-CB11-DFE0-8461A77BCC9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE3A2A7C-0A0C-4D7C-381A-716AD1562013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE3A2A7C-0A0C-4D7C-381A-716AD1562013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE3A2A7C-0A0C-4D7C-381A-716AD1562013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE3A2A7C-0A0C-4D7C-381A-716AD1562013}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
